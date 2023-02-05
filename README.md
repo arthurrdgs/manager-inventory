@@ -28,7 +28,7 @@ _Check quantity, price and total value in stock for each product._
 ```
 To install this project in your local repository, simply go to:
 
-https://github.com/arthurrdgs/finalCapstone/tree/master
+https://github.com/arthurrdgs/manager-inventory/blob/master/inventory.py
 
 After that, you can follow instructions showed in the image below, by clicking on the green button **Code** and then **Download ZIP**
 ```
